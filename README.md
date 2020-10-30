@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## :bookmark: Sobre
 
-Pokédex é um sistema que lista todos os pokemons da série 
+Pokédex é um sistema que lista todos os pokemons da série pókemon

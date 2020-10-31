@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Pokéapi](https://pokeapi.co/)
 - [Pokeres](https://pokeres.bastionbot.org/images/pokemon/)
 
-
+<a id="sobre"></a>
 ## :bookmark: Sobre
 
 Pokédex é um sistema que lista todos os pokemons da série pókemon

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img alt="Pokédex" src="https://i.imgur.com/sq9KBWh.png" width="100%">
+  <img alt="Pokédex" src="https://i.imgur.com/DVL5IaT.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
